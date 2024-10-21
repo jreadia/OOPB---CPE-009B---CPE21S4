@@ -1,0 +1,7 @@
+First Name: James Russel
+Last Name: Adia
+Username: qjreadia
+Password: testpass
+Email Address: test@gmail.com
+Contact Number: 012345678
+
